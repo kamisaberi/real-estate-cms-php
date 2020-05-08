@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule /id/(.*)/title/(.*)\.htm Estate.php?id=$1&title=$2

@@ -1,0 +1,5 @@
+c:\users\novin\documents\visual studio 2010\ProjectsOfClassMrBazargan\NewEstate\NewEstate\bin\NewEstate.dll
+c:\users\novin\documents\visual studio 2010\ProjectsOfClassMrBazargan\NewEstate\NewEstate\bin\NewEstate.pdb
+c:\users\novin\documents\visual studio 2010\ProjectsOfClassMrBazargan\NewEstate\NewEstate\obj\Debug\ResolveAssemblyReference.cache
+c:\users\novin\documents\visual studio 2010\ProjectsOfClassMrBazargan\NewEstate\NewEstate\obj\Debug\NewEstate.dll
+c:\users\novin\documents\visual studio 2010\ProjectsOfClassMrBazargan\NewEstate\NewEstate\obj\Debug\NewEstate.pdb
